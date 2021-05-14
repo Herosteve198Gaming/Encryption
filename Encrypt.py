@@ -6,7 +6,7 @@ import pyperclip
 
 
 win = Tk()
-win.title("Menu")
+win.title("Password Generator")
 win.geometry('450x75')
 
 lower = "abcdefghijklmnopqrstuvwxyz"
